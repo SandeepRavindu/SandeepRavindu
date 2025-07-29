@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **SandeepRavindu/SandeepRavindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <!-- Profile README.md -->
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Ravindu Sandeep</h1>
 <h3 align="center">Passionate Full-Stack Developer | AI Enthusiast | Entrepreneur</h3>
 
 <p align="center">
@@ -31,7 +30,7 @@ Here are some ideas to get you started:
 - 💻 I’m working on **AI-powered platforms, web marketplaces, and business tools**
 - 🧠 I love turning ideas into working software
 - 📈 I’m building projects that solve real-world problems
-- 📬 Reach me at: **[your.email@example.com]**
+- 📬 Reach me at: **sandeepravindu112@gmail.com**
 
 ---
 
@@ -75,12 +74,12 @@ Here are some ideas to get you started:
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/ravindu-sandeep-aa19b12a0/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:your.email@example.com"><img align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://twitter.com/yourhandle"><img align="center" src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" /></a>
 </p>
 
 ---
 
-⭐️ From [Your Name]
+⭐️ From Ravindu Sandeep
 
